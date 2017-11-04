@@ -1,0 +1,28 @@
+.navbar
+{
+	background-color: #09244f;
+}
+.page-header
+{
+	position:relative;
+	top:-25px;
+}
+img
+{
+	height: 140px;
+	width:150px;
+	margin-right: 10px;
+}
+.container
+{
+	position: :relative;
+	top:-75px;
+}
+.panel-body
+{
+	font-size: 20px;
+}
+label
+{
+	color: black;
+}

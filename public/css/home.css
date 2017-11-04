@@ -1,0 +1,13 @@
+.carousel .carousel-item{
+	min-height: 300px;
+	width:350px ;
+}
+
+body
+{
+	background-color: black;
+}
+.heading
+{
+	color: white;
+}

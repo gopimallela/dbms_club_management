@@ -1,0 +1,31 @@
+body
+{
+background-color: #09244f;
+}
+
+.title
+{
+font-family: headerfont;
+color: white;
+font-size:80px;
+}
+
+ @font-face {
+  font-family: headerfont;
+    src: url(headf.ttf);
+}
+.small
+{
+font-size: 20px;
+position: relative;
+top:-5px;
+}
+hr
+{
+	border-color:#858a91;
+}
+.register
+{
+	position:relative;
+	bottom:19px;
+}
